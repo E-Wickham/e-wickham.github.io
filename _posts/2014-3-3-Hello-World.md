@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Ah shit, here we go again
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Ok fine, I'm blogging again. My name is Eric Wickham, I'm a journalist in Toronto that feels compelled lately to write about the things I care about more. 
+This is a space for me to share my thoughts about the current state of journalism, Canadian media, politics and anything else happening. 
 
+If I can keep this up for a few months I'll probably turn it into a newsletter - but a free blog feels good for now. 
+
+I'm keeping this image from the how to post because it's coded and I am going to reuse it for posting images with my stories. 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
